@@ -1,6 +1,7 @@
 {
-  "users": [
+  "students": [
     {
+      "id": "10171052",
       "name": "Muhammad Putra Age",
       "nim": "10171052",
       "cabinet": "Enkripsi",
@@ -8,11 +9,38 @@
       "position": "Kepala Departemen"
     },
     {
+      "id": "10171001",
       "name": "Ahmad Maulana Fikri",
       "nim": "10171001",
       "cabinet": "Enkripsi",
       "department": "PSDM",
       "position": "Kepala Departemen"
+    },
+    {
+      "id": "10171063",
+      "name": "Rendy Setyawan",
+      "nim": "10171063",
+      "cabinet": "Enkripsi",
+      "department": "Sosmas",
+      "position": "Kepala Departemen"
+    }
+  ],
+  "lecturer": [
+    {
+      "id": "52101710",
+      "name": "Munir S.Kom. M.Kom",
+      "nip": "52101710",
+      "prodi": "Sistem Informasi",
+      "position": "Dosen",
+      "subject": "Pemrograman Web"
+    },
+    {
+      "id": "01101710",
+      "name": "Mursinah S.Kom. M.Kom",
+      "nip": "01101710",
+      "prodi": "Sistem Informasi",
+      "position": "Tendik",
+      "subject": "Sistem Informasi"
     }
   ]
 }
