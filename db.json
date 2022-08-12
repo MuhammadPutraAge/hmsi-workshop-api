@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Muhammad Putra Age",
+      "nim": "10171052",
+      "cabinet": "Enkripsi",
+      "department": "Keprofesian",
+      "position": "Kepala Departemen"
+    },
+    {
+      "name": "Ahmad Maulana Fikri",
+      "nim": "10171001",
+      "cabinet": "Enkripsi",
+      "department": "PSDM",
+      "position": "Kepala Departemen"
+    }
+  ]
+}
